@@ -1,0 +1,30 @@
+.mkdf-login-register-holder.opened {
+    display: block !important;
+}
+
+.mkdf-login-content-inner.open, .mkdf-register-content-inner.open {
+    display: block !important;
+}
+
+.select-custom-class {
+    width: 100%;
+    padding: 16px 16px 16px 14px;
+    color: #5b5a5a;
+    font-family: Hind, sans-serif;
+    background-color: transparent;
+    border: 1px solid #e1e1e1;
+}
+
+.verticalalign-middle {
+    vertical-align: middle !important;
+}
+
+.mkdf-membership-input.custom-mini {
+    padding: 7px !important;
+    margin-bottom: 0px !important;
+}
+
+.mkdf-spec-item-value::placeholder {
+    color: black!important;
+    opacity: 0.6!important; /* Firefox */
+}
